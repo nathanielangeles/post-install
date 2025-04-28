@@ -84,17 +84,6 @@ git clone https://github.com/nargaw/tryHackMe_notes.git
 cd "$HOME"
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
-cat > "$HOME/.zshrc" << 'EOF'
-export ZSH="$HOME/.oh-my-zsh"
-ZSH_THEME="minimal"
-plugins=()
-source $ZSH/oh-my-zsh.sh
-alias update="sudo apt update"
-alias upgrade="sudo apt upgrade"
-alias search="apt-cache search"
-alias install="sudo apt install"
-EOF
-
 echo -e "[🟢] System Setup - Done"
 
 exec zsh
