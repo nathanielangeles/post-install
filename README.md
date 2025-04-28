@@ -1,5 +1,5 @@
 # Post-Install Script
-Post-Install Script for Linux Mint, ParrotSec, and Kali.
+Post-Install Script for Linux Mint, Ubuntu, ParrotSec, and Kali.
 
 # Linux Mint
 ![2025-04-28_19-26](https://github.com/user-attachments/assets/8d91e97b-410a-4600-a858-c41499c0555b)
