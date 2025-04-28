@@ -1,2 +1,2 @@
 # post-install
-Post-Install Script for Linux Mint, ParrotSec, Kali
+Post-Install Script for Linux Mint, ParrotSec, and Kali.
