@@ -13,7 +13,7 @@ This script automates essential tasks like:
 - Installing Flatpak packages (Discord, VS Code, etc.)
 - Setting up **Oh-My-Zsh** with a minimal configuration
 - Creating user directories (`Scripts`, `Misc`, `Notes`)
-- Cloning a personal TryHackMe notes repository
+- Cloning a TryHackMe notes repository
 
 ## 🚀 Usage
 
