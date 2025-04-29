@@ -46,7 +46,7 @@ echo -e "[🟢] Update and Upgrade - Done\n"
 package1() {
 echo -e "[🟡] Installing System Packages..."
 
-system_package=("flatpak" "curl" "wget" "git" "terminator" "micro" "preload" "flameshot" "cherrytree" "obs-studio" "zsh" "papirus-icon-theme" "fonts-jetbrains-mono")
+system_package=("flatpak" "curl" "wget" "git" "terminator" "micro" "preload" "flameshot" "cherrytree" "zsh" "papirus-icon-theme" "fonts-jetbrains-mono")
 
 for sys_pack in ${system_package[@]};
 do
